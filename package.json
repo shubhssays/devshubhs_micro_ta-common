@@ -2,7 +2,7 @@
   "name": "@devshubhs_micro_ta/common",
   "version": "1.0.5",
   "description": "",
-  "main": "index.js",
+  "main": "src/index.ts",
   "types": "./build/index.d.ts",
   "files": [
     "build/**/*"
